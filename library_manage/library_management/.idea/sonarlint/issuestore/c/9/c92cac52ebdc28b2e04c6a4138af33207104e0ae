@@ -1,0 +1,97 @@
+
+	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8»Çàüº2J$b9a9d703-ddda-4025-a033-b8a69fba9bf0
+	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$f5db27ab-b55e-48dd-86f7-3efc4513c271
+	java:S112|"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$08fc31a9-4703-4780-a920-5247cd2ddce1
+	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$91bb0793-dc1e-45f6-9966-05eb5fa92886
+	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$ce011d5f-cad1-4bbd-ab3d-d1c5f4037db2
+	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$13bf2cb9-3f5f-4f56-a0f7-0978328bc866
+	java:S112ß"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$83aae277-a130-4f48-a4a8-de01295c0e50
+	java:S112î"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$f6bc5910-952e-4a26-a1ea-1bda6eadd697
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$0613a8ab-216c-41df-87bd-d3da44164a40
+	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$0560ddf3-b8ff-492b-94d4-b35ed5a49a40
+	java:S112Å"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$3a2514d1-ab9f-4c02-a73f-db7376277530
+	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$4dfa28dc-3208-41df-bf1a-f94759731820
+	java:S112ş"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼Çàüº2J$3a7b910c-aaa2-4a1d-b86c-eab2084ff721
+	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¡¦öıº2J$84068e57-1988-431d-a051-110b8c8d8f5b
+Š
+java:S1192$"GDefine a constant instead of duplicating this literal "author" 5 times.(ÚäŒ¢8¾Çàüº2J$44d82ac1-af84-4e6d-b583-6dfcefcbf484
+’
+java:S1192("JDefine a constant instead of duplicating this literal "available" 5 times.(ê§ùŠÿÿÿÿÿ8¾Çàüº2J$309ca076-4482-4068-b63d-479b4df1380b
+
+java:S1192#"FDefine a constant instead of duplicating this literal "title" 5 times.(¡ŞÃûÿÿÿÿ8¾Çàüº2J$3d8785f1-85f6-47ed-b45d-7a0b58ec35b9
+«
+java:S1192,"hDefine a constant instead of duplicating this literal "JOIN book_type bt ON t.id = bt.type_id " 5 times.(ºĞµÿ8¾Çàüº2J$0349e2a6-d14e-40ec-9eb8-268fa89b2fbc
+ 
+java:S1192+"XDefine a constant instead of duplicating this literal "SELECT * FROM `type` t " 3 times.(»¥¹şÿÿÿÿÿ8¾Çàüº2J$ee2950f6-f1c2-4263-9d6e-c2380e9747c5
+‰
+java:S1192&"FDefine a constant instead of duplicating this literal "total" 7 times.(÷ôØò8¾Çàüº2J$c18e0148-17eb-4401-8b29-4cd144349dda
+˜
+java:S1192-"UDefine a constant instead of duplicating this literal "WHERE bt.book_id = ?" 5 times.(¸€ûí8¾Çàüº2J$db69e006-c617-4111-b824-ede7b9962706
+Œ
+java:S1192'"IDefine a constant instead of duplicating this literal "location" 5 times.(å×Û¦8¾Çàüº2J$82f70415-46cd-474e-a5b5-e0d61902d1ea
+Š
+java:S1192h"GDefine a constant instead of duplicating this literal "status" 4 times.(ú²ÉÌ8¾Çàüº2J$1d030096-1759-4e0b-a2b6-8e3d7f1a8c9c
+“
+java:S2095ù"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÕœ²8°Èàüº2J$030b75bd-faf2-401e-9e7d-9eb0bab1dec0
+“
+java:S2095¾"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(èéŠí8°Èàüº2J$1abda5c1-c714-4ded-a489-cbb47992a9a9
+’
+java:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(®›ï‚8°Èàüº2J$bc0a5a96-1fe1-4a2a-a460-f0a62169fb89
+“
+java:S2095×"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ä×›°8°Èàüº2J$8c3354b3-87fa-4f53-a626-6511ed2de08f
+“
+java:S2095ù"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚úÿª8Æìöıº2J$ffd814f8-f0e1-474f-92a0-ec5006ddddeb
+“
+java:S2095†"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚úÿª8°Èàüº2J$168a7c52-8cab-49a5-9c2f-48a4808e6865
+“
+java:S2095—"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(®›ï‚8°Èàüº2J$aacfe435-7f54-4710-9f23-3a9203f9c668
+’
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÂìÓ÷8°Èàüº2J$f0f2f639-9849-4b64-878e-2049407e10e1
+“
+java:S2095Æ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÖÙÙ8°Èàüº2J$35bb1f46-fe47-4bf2-aee8-8bef48f1ab9d
+“
+java:S2095°"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ä¹˜ã8°Èàüº2J$acb085ed-eee6-430c-ab37-248b86f112bd
+˜
+java:S2095Ğ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¡º˜Ûıÿÿÿÿ8°Èàüº2J$9be2fcad-9973-47ef-84c9-4599ca90bdd1
+“
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(®›ï‚8°Èàüº2J$ea07c522-2c00-4005-a041-cbd6493bdcb5
+’
+java:S2095^"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Œºœá8°Èàüº2J$41d83c76-7f47-4569-a685-b109831fa711
+“
+java:S2095á"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(®›ï‚8±Èàüº2J$8ad984d5-af05-4a66-9acf-4391c9a362c6
+“
+java:S2095†"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ùùÄú8°Èàüº2J$5b00de23-df4c-4b61-8ea9-557c830c486a
+˜
+java:S2095é"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(éÍÒÙùÿÿÿÿ8°Èàüº2J$a799c1a8-fb98-4bde-a573-e8ed14aaa276
+’
+java:S2095n"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(®›ï‚8±Èàüº2J$4e4819c8-9847-4571-b8ce-cd1e298b873b
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(œƒş·ıÿÿÿÿ8°Èàüº2J$62ae4bd5-4504-4b46-b8a1-b9203def7f35
+“
+java:S2095§"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¯Ù±Ñ8°Èàüº2J$a7f22dd0-9412-4401-ac8f-803d2aa72eae
+g
+java:S6905"Don't use the query "SELECT *".(œƒş·ıÿÿÿÿ8¹Èàüº2J$7603e5e2-e0bd-466b-8722-9d341c70f9e2
+b
+java:S6905^"Don't use the query "SELECT *".(Œºœá8ÂÈàüº2J$555058e9-9674-45ed-849c-733b1b9afe2b
+€
+java:S6909˜"<Move this loop-invariant setter invocation out of this loop.( Õ¸•8ÇÈàüº2J$80177dea-0cc1-4fd7-af4d-68251a8b6bb3
+c
+java:S6905†"Don't use the query "SELECT *".(ùùÄú8ÇÈàüº2J$8af42404-8f69-4f05-a4e9-4f5c4bdc88be
+c
+java:S6905×"Don't use the query "SELECT *".(Ä×›°8ĞÈàüº2J$ba0cbad5-f9b5-4239-81ae-3155502d2661
+c
+java:S6905ù"Don't use the query "SELECT *".(ÀÕœ²8ÕÈàüº2J$44ff109f-445d-4c6b-8c07-eaf3bb1ed818
+h
+java:S6905Ğ"Don't use the query "SELECT *".(¡º˜Ûıÿÿÿÿ8İÈàüº2J$523426e3-837e-4ba3-a984-e0c9d2e0c93f
+š
+java:S6912ã"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(€›Ï 8áÈàüº2J$4c25f76d-9a1b-43ad-8569-fe934cfe312d
+™
+java:S6912p"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(€›Ï 8áÈàüº2J$b068bbc3-7cee-4218-a590-216de831663c
+š
+java:S6912"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(€›Ï 8áÈàüº2J$e8fa30bc-d997-4518-a810-22d6d5d5bfd4
+™
+java:S69120"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(€›Ï 8áÈàüº2J$58539e96-142b-4869-99b8-c70c9db37255
+š
+java:S6912™"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(€›Ï 8áÈàüº2J$ec9291af-8b85-4e08-abcf-5bec528cf609
+y
+java:S1068"7Remove this unused "iTypeBookRepository" private field.(±ÑÏC8âÈàüº2J$82e16b16-d2d1-4687-b9a9-990cd4cd660c
